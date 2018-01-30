@@ -1,0 +1,14 @@
+Waf: Entering directory `/home/wlyu/repos/ns-3-allinone/ns-3-dev/build'
+Waf: Leaving directory `/home/wlyu/repos/ns-3-allinone/ns-3-dev/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.905s)
+Sink 0	TotalRx: 6.88224Mb	Goodput: 0.114704Mbps
+Sink 1	TotalRx: 4.13696Mb	Goodput: 0.0689493Mbps
+Sink 2	TotalRx: 4.35181Mb	Goodput: 0.0725301Mbps
+Sink 3	TotalRx: 4.19846Mb	Goodput: 0.0699744Mbps
+Sink 4	TotalRx: 4.44454Mb	Goodput: 0.0740757Mbps
+Sink 5	TotalRx: 8.32422Mb	Goodput: 0.138737Mbps
+Sink 6	TotalRx: 6.79219Mb	Goodput: 0.113203Mbps
+Sink 7	TotalRx: 6.98515Mb	Goodput: 0.116419Mbps
+
+Totals	TotalRx: 46.1156Mb	Goodput: 0.768593Mbps

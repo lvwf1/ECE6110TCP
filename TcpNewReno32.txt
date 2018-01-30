@@ -1,0 +1,38 @@
+Waf: Entering directory `/home/wlyu/repos/ns-3-allinone/ns-3-dev/build'
+Waf: Leaving directory `/home/wlyu/repos/ns-3-allinone/ns-3-dev/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.891s)
+Sink 0	TotalRx: 1.55226Mb	Goodput: 0.0258709Mbps
+Sink 1	TotalRx: 1.22208Mb	Goodput: 0.020368Mbps
+Sink 2	TotalRx: 0.92192Mb	Goodput: 0.0153653Mbps
+Sink 3	TotalRx: 1.22637Mb	Goodput: 0.0204395Mbps
+Sink 4	TotalRx: 1.8953Mb	Goodput: 0.0315883Mbps
+Sink 5	TotalRx: 1.13203Mb	Goodput: 0.0188672Mbps
+Sink 6	TotalRx: 1.88243Mb	Goodput: 0.0313739Mbps
+Sink 7	TotalRx: 1.19635Mb	Goodput: 0.0199392Mbps
+Sink 8	TotalRx: 1.84384Mb	Goodput: 0.0307307Mbps
+Sink 9	TotalRx: 1.20064Mb	Goodput: 0.0200107Mbps
+Sink 10	TotalRx: 1.31642Mb	Goodput: 0.0219403Mbps
+Sink 11	TotalRx: 1.12346Mb	Goodput: 0.0187243Mbps
+Sink 12	TotalRx: 1.18349Mb	Goodput: 0.0197248Mbps
+Sink 13	TotalRx: 1.18349Mb	Goodput: 0.0197248Mbps
+Sink 14	TotalRx: 1.16205Mb	Goodput: 0.0193675Mbps
+Sink 15	TotalRx: 1.32928Mb	Goodput: 0.0221547Mbps
+Sink 16	TotalRx: 1.79667Mb	Goodput: 0.0299445Mbps
+Sink 17	TotalRx: 1.81811Mb	Goodput: 0.0303019Mbps
+Sink 18	TotalRx: 2.74003Mb	Goodput: 0.0456672Mbps
+Sink 19	TotalRx: 2.76147Mb	Goodput: 0.0460245Mbps
+Sink 20	TotalRx: 2.7529Mb	Goodput: 0.0458816Mbps
+Sink 21	TotalRx: 1.11917Mb	Goodput: 0.0186528Mbps
+Sink 22	TotalRx: 1.42362Mb	Goodput: 0.0237269Mbps
+Sink 23	TotalRx: 1.41075Mb	Goodput: 0.0235125Mbps
+Sink 24	TotalRx: 1.26496Mb	Goodput: 0.0210827Mbps
+Sink 25	TotalRx: 1.4279Mb	Goodput: 0.0237984Mbps
+Sink 26	TotalRx: 1.11917Mb	Goodput: 0.0186528Mbps
+Sink 27	TotalRx: 1.66374Mb	Goodput: 0.0277291Mbps
+Sink 28	TotalRx: 1.54797Mb	Goodput: 0.0257995Mbps
+Sink 29	TotalRx: 1.55654Mb	Goodput: 0.0259424Mbps
+Sink 30	TotalRx: 1.34643Mb	Goodput: 0.0224405Mbps
+Sink 31	TotalRx: 1.04627Mb	Goodput: 0.0174379Mbps
+
+Totals	TotalRx: 48.1671Mb	Goodput: 0.802785Mbps
